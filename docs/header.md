@@ -6,10 +6,10 @@ Myles Brand Hall (I) 232
 John’s demo CollectionBuilder Sites: [Rock Show](https://jawalsh.github.io/rock-show/), [Rock Show repository](https://github.com/jawalsh/rock-show), [Comic Book Paratexts](https://comics.indiana.edu/cbp/)
 
 
-*Associate Instructor:* [Alex Wingate](http://alexandraewingate.com), [alewinga@iu.edu](mailto:alewinga@iu.edu)  
-*Office Hours:* Fridays 2:30pm - 4:00pm and by appointment on Zoom ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2084986/users/6407854))  
-Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/cb_demo/), 
-[Alex's demo CollectionBuilder Repository](https://github.com/aewingate/cb_demo)
+*Associate Instructor:* [Gyuri Kang], [gyukang@iu.edu](mailto:gyukang@iu.edu)  
+*Office Hours:* 
+<!-- Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/cb_demo/), 
+[Alex's demo CollectionBuilder Repository](https://github.com/aewingate/cb_demo) -->
 
 
 
