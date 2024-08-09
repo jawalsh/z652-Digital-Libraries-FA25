@@ -1,4 +1,4 @@
-# Z652 Digital Libraries, Fall 2023, Section 3874
+# Z652 Digital Libraries, Fall 2024, Section 3621
 9:10 - 11:45 Friday
 Myles Brand Hall (I) 232  
 *Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu), Luddy Hall 2132.  
