@@ -33,12 +33,11 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 	- You may also wish to explore some of IU’s digital collections at <http://dlib.indiana.edu/collections>
 	
 ### Tasks
-- Contribute to your introductory video to the [Introduction videos](https://iu.instructure.com/courses/2169110/discussion_topics/12902800) discussion.
+<!-- - Contribute to your introductory video to the [Introduction videos](https://iu.instructure.com/courses/2169110/discussion_topics/12902800) discussion.-->
 - Complete the [Pre-class survey](https://iu.instructure.com/courses/2169110/quizzes/4004384).
-- Contribute to the [“What are digital libraries?”](https://iu.instructure.com/courses/2169110/discussion_topics/12937141) discussion.
+<!-- - Contribute to the [“What are digital libraries?”](https://iu.instructure.com/courses/2169110/discussion_topics/12937141) discussion. -->
 
 ## In Class
-- course [pre-test](https://iu.instructure.com/courses/2169110/quizzes/4034405).
 - course introduction.
 - [slides](https://dcl.ils.indiana.edu/z652_slides/week01.html).
 - [Exploring digital collections](https://github.com/jawalsh/z652-Digital-Libraries/discussions/13) activity.
