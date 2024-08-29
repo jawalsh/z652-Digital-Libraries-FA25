@@ -39,7 +39,7 @@ This week we will learn about controlled vocabularies and how they relate to met
 
 ### Tasks
 - Complete the above readings
-- Contribute to this week's [discussion on Canvas](https://iu.instructure.com/courses/2169110/discussion_topics/13058411)
+- Contribute to this week's [discussion on Canvas](https://iu.instructure.com/courses/2252765/discussion_topics/13841511)
 
 ## In class
 - Review of Markdown lab answers

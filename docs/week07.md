@@ -26,7 +26,7 @@ Images in research
 
 ### Tasks
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2169110/discussion_topics/13086731) by: Thursday, 5pm.
+- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841509) by: Thursday, 5pm.
 
 ### Reference links
 - [Universal Viewer](https://github.com/UniversalViewer/universalviewer) (IIIF Viewer)

@@ -21,7 +21,7 @@ We will learn about what metadata is, different types of metadata, what it's use
   - [Documenting recipes](https://goodfoodstudioza.com/recipe-writing-tips)
   - [Documenting code](https://medium.com/larimaza-en/how-to-write-good-documentation-e19c70dc67f0)
 - Dublin Core, METS, MODS, and other standards
-  - [METS overview](https://www.loc.gov/standards/mets/METSOverview.v3_en.html)
+  <!-- - [METS overview](https://www.loc.gov/standards/mets/METSOverview.v3_en.html) -->
   - Riley, Jenn. (2017). [Understanding Metadata: What Is Metadata, and What Is It For?](https://www.niso.org/publications/understanding-metadata-2017). Baltimore, MD: National Information Standards Organization (NISO). **only pp. 27-39**
   - [Dublin Core Basics: The Beginners Guide](http://paladini.github.io/dublin-core-basics/)
   - [Dublin Core Metadata Element Set](https://guides.library.ucsc.edu/c.php?g=618773&p=4306386)
@@ -31,7 +31,7 @@ We will learn about what metadata is, different types of metadata, what it's use
 
 ### Tasks
  - READ: Please complete the readings outlined above by: Thursday, 5pm.
- - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2169110/discussion_topics/13029443) by: Thursday, 5pm.
+ - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841512) by: Thursday, 5pm.
 
 ## In class
 - Documentation

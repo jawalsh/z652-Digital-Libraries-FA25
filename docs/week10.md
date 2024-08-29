@@ -16,7 +16,6 @@ We will learn about the digitization of text-based media, or “text objects,”
 - Christenson, H. (2010). “HathiTrust: A Research Library at Web Scale.” _Library Resources and Technical Services 55_(2). pp. 93-102. <https://www.hathitrust.org/documents/christenson-lrts-201104.pdf>
 
 ### Tasks
-- By Thursday 5pm, respond to [Text Objects 1 discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/3).
 - Install tesseract
 	- On mac, use the [homebrew](https://brew.sh) command `brew install tesseract`. 
 		- _[Homebrew](https://brew.sh) is package manager that simplifies the process of installing Unix software on your Mac. Installation instructions are available at <https://brew.sh>._
