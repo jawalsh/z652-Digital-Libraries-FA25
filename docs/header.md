@@ -7,7 +7,7 @@ John’s demo CollectionBuilder Sites: [Rock Show](https://jawalsh.github.io/roc
 
 
 *Associate Instructor:* [Gyuri Kang], [gyukang@iu.edu](mailto:gyukang@iu.edu)  
-*Office Hours:* Tuesdays 11:00 AM-12:00 PM, Luddy Hall 2115B.  
+*Office Hours:* Tuesdays 11-12 PM, Luddy Hall 2115B.  
 Gyuri's demo CollectionBuilder site: [Ecofiction Collection](https://krorange.github.io/ecofiction/), [Gyuri's demo CollectionBuilder Repository](https://github.com/krorange/ecofiction/)
 <!-- Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/cb_demo/), 
 [Alex's demo CollectionBuilder Repository](https://github.com/aewingate/cb_demo) -->
