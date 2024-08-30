@@ -13,6 +13,7 @@ John’s demo CollectionBuilder Sites: [Rock Show](https://jawalsh.github.io/roc
 
 
 
-[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) \| [discussions](https://github.com/jawalsh/z652-Digital-Libraries/discussions)
+[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) 
+<!-- \| [discussions](https://github.com/jawalsh/z652-Digital-Libraries/discussions) -->
 
 ---
