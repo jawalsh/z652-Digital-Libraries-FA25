@@ -6,7 +6,7 @@
 
 # Schedule
 * [Week 1](week01.md) _(2024-08-30)_: Introductions
-	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week01.html)
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html)
 * [Week 2](week02.md) _(2024-09-06)_: GitHub & Markdown 
 	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week02.html)
 * [Week 3](week03.md) _(2024-09-13)_: CollectionBuilder Introduction

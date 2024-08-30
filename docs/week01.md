@@ -43,5 +43,5 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 
 ## In Class
 - course introduction.
-- [slides](https://dcl.ils.indiana.edu/z652_slides/week01.html).
+- [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html).
 - [Exploring digital collections](activity_exploring_digital_collections) activity.
