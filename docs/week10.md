@@ -23,7 +23,7 @@ We will learn about the digitization of text-based media, or “text objects,”
 - Install Adobe Acrobat from <https://iuware.iu.edu/>. 
 
 ## In Class
-- [slides](https://dcl.ils.indiana.edu/z652_slides/week09.html)
+- [slides](https://jawalsh.github.io/Z652_reveal.js/week10.html)
 - [OCR exercise](assignment_ocr_exercise.md)
 - [Linux/Mac Commandline Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) (you'll mostly need the directory commands)
 * [Windows Commandline Cheat Sheet by Stephen Edwards at Columbia University](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
