@@ -28,12 +28,12 @@ This week we will learn about:
 *   Witten, et al. Chapter 5, §1. pp. 215-221.
 *   Witten, et al. Chapter 5, §3. pp. 235-257.
 *   Library of Congress Recommended Format Specifications 2020–2021 [§II. Still Image Works](https://www.loc.gov/preservation/resources/rfs/index.html).
-*   Lynda.com: Digital Information: <https://www.lynda.com/Programming-Foundations-tutorials/Computer-Science-Principles-Digital-Information/454673-2.html>
-*   Lynda.com: Creating Optimized Web Graphics: <https://www.lynda.com/Sketch-tutorials/Creating-Optimized-Web-Graphics/480956-2.html>
+*   LinkedIn Learning: Digital Information: <https://www.lynda.com/Programming-Foundations-tutorials/Computer-Science-Principles-Digital-Information/454673-2.html>
+*   LinkedIn Learning: Creating Optimized Web Graphics: <https://www.lynda.com/Sketch-tutorials/Creating-Optimized-Web-Graphics/480956-2.html>
 
 ### Tasks
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841510) by: Thursday, 5pm (no penalty for late submissions, because discussion was posted late).
+- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841510) by: Thursday, 5pm.
 
 - **INSTALL** ImageMagick
     *   MacOS (option 1): If you have [homebrew](https://brew.sh/) installed, you can install ImageMagic from the Terminal command line with the commands:
