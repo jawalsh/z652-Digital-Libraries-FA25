@@ -25,7 +25,12 @@
 # Review
 
 1. Go to [github.com](https://github.com) and view the changed `hello.md` file.
-2. Download [this text file](getting-started-with-git-lab.txt), complete, save as a markdown document (.md) and turn in on the _Getting Started with GitHub_ assignment page in Canvas. 
+2. Download [this text file](getting-started-with-git-lab.txt):
+    - answer the prompts and complete the tasks
+    - save the file as a markdown document (.md)
+    - submit the file on the _Getting Started with GitHub_ assignment page in Canvas.
+
+
 - Text for footnote question:  
 Main text: Alex Wingate went to William and Mary.(place footnote here)  
 Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
