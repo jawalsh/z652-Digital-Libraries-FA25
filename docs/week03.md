@@ -4,17 +4,16 @@
 ## Summary
 For this week, you will complete a tutorial to set up a sample [CollectionBuilder](https://collectionbuilder.github.io) collection in GitHub. 
 
-<!--
-
 Olivia Wikle and Devin Becker will join the class to discuss the CollectionBuilder project and answer questions about CollectionBuilder. 
 
 [Olivia Wikle](https://cdil.lib.uidaho.edu/people/#profile-olivia-wikle) is the Digital Initiatives Librarian and Co-Director of the Center for Digital Inquiry and Learning (CDIL) at the University of Idaho. She is also Communications Director for CollectionBuilder and a former ILS student at Indiana University.  
 
 [Devin Becker](https://cdil.lib.uidaho.edu/people/#profile-devin-becker) is the Head of Data and Digital Services and Co-Director of the Center for Digital Inquiry and Learning (CDIL) at the University of Idaho. He is the Project Director for CollectionBuilder and also a former ILS student at Indiana University.
 
--->
-
 ## Weekly Learning Objectives
+
+- _Use_ the online [CollectionBuilder](https://collectionbuilder.github.io) documentation and tutorials to successfully create your first CollectionBuilder site.
+- _Familiarize_ yourself with the structure and organization of the [CollectionBuilder](https://collectionbuilder.github.io) documentation.
 
 
 ## Before class: Readings, Resources, and Tasks
