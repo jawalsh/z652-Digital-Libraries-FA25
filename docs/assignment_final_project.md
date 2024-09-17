@@ -47,3 +47,9 @@ In Canvas, submit:
 ## Sample projects from past semesters
 - Erin Walden: <https://erinwalden.github.io/bookmarked/>
 
+## Other resources
+- [final_project_parts.pdf](../resources/final_project_parts.pdf): A brief visual summary of the main components of your CollectionBuilder site:
+	- digital content
+	- metadata
+	- contextual information
+
