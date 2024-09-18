@@ -4,6 +4,7 @@
 - Fully describes context, content, and users
 - Lists specific functional requirements
 - Clear connection between metadata elements (fields) and functional requirements
+
 ### Documentation of elements
 - Includes all required CollectionBuilder elements
 - Includes at least two CollectionBuilder visualization elements
