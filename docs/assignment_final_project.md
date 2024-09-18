@@ -48,7 +48,7 @@ In Canvas, submit:
 - Erin Walden: <https://erinwalden.github.io/bookmarked/>
 
 ## Other resources
-- [final_project_parts.pdf](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/final_project_parts.pdf): A brief visual summary of the main components of your CollectionBuilder site:
+- [final_project_parts.pdf](https://github.com/jawalsh/z652-Digital-Libraries-FA24/blob/main/final_project_parts.pdf): A brief visual summary of the main components of your CollectionBuilder site:
 	- digital content
 	- metadata
 	- contextual information
