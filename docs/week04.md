@@ -35,10 +35,11 @@ We will learn about what metadata is, different types of metadata, what it's use
 
 ## In class
 - Documentation
-  - [Slides](https://docs.google.com/presentation/d/1R7ty8B3odor7hhGu-Bg4jgCFIHDJhJTcs0XAKbYgRXk/edit?usp=sharing)
+  - [Slides](https://github.com/jawalsh/z652-Digital-Libraries-FA24/blob/main/resources/week4.pdf)
+<!--  - [Slides](https://docs.google.com/presentation/d/1R7ty8B3odor7hhGu-Bg4jgCFIHDJhJTcs0XAKbYgRXk/edit?usp=sharing) -->
   - [Documentation Lab](assignment_documentation_lab.md)
 - Metadata
-  - [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing)
+<!--  - [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing) -->
   - [SUCHO](https://www.sucho.org/) metadata guidelines
   - Discuss the [metadata application profile assignment](assignment_metadata_application_profile.md)
   - [Metadata lab Part I](assignment_metadata_practice_1.md)
