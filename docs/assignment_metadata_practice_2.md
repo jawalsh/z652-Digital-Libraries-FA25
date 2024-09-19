@@ -7,7 +7,7 @@ In this lab, we'll be practicing the following:
 5. creating good documentation
 
 ## Part II (in class September 22; due 11:59pm September 26)
-You will receive from Alex the prototype MAP of another person from the group opposite yours. 
+You will receive the prototype MAP of another person from the group opposite yours. 
 
 Using this MAP, you will be creating metadata for the four items in the opposite group's folder and peer reviewing your classmate's prototype MAP. 
 
