@@ -7,7 +7,7 @@ In this lab, we'll be practicing the following:
 5. creating good documentation
 
 The lab itself has two parts which we'll accomplish over the next week. 
-## Part I (in-class Sept. 15; due 11:59pm Sept. 18)
+## Part I (in-class Sept. 20; due 11:59pm Sept. 24)
 ### Instructions
 On Canvas, there's a folder in Files called "Metadata and Documentation Lab". Within it, there are two folders: "A Items" and "B Items". Consult our Canvas groups for "Metadata and Functional Requirements Lab" to see whether you are in Group A or Group B. 
 
