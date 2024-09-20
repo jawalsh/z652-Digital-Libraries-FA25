@@ -9,7 +9,7 @@ In this lab, we'll be practicing the following:
 The lab itself has two parts which we'll accomplish over the next week. 
 ## Part I (in-class Sept. 15; due 11:59pm Sept. 18)
 ### Instructions
-On Canvas, there's a folder in Files called "Metadata and Documentation Lab". Within it, there are two folders: "A Items" and "B Items". Consult the text file also in that folder to see whether you are in Group A or Group B. 
+On Canvas, there's a folder in Files called "Metadata and Documentation Lab". Within it, there are two folders: "A Items" and "B Items". Consult our Canvas groups for "Metadata and Functional Requirements Lab" to see whether you are in Group A or Group B. 
 
 Each group has PDFs pages from 5 cookbooks. These items will serve as representative items from a collection of cookbooks that will form a hypothetical digital library. 
 
