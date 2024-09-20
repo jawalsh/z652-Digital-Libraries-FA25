@@ -1,5 +1,6 @@
 # Metadata Application Profile  
 **Full draft due Oct. 04 at 11:59pm, final draft due Oct. 18 at 11:59pm**
+
 For this assignment, you will be designing the metadata application profile for your final project. The specified fields will include required CollectionBuilder fields, including required fields for visualization, optional CollectionBuilder fields that you are using for your project, and any custom fields that you create for your collection.
 
 The application profile will consist of the following parts:
