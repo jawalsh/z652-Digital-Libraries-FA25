@@ -44,8 +44,8 @@ This week we will learn about controlled vocabularies and how they relate to met
 ## In class
 - Review of Markdown lab answers
 - Controlled Vocabularies
-    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing)
     - [Controlled Vocabulary Lab](assignment_controlled_vocabulary_lab.md)
+<!--    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing) -->
 - Review of metadata
 - Review of upcoming metadata assignment
 - Metadata and Documentation continued
