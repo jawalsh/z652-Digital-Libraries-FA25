@@ -11,4 +11,4 @@ For each vocabulary:
     - What fields could it be applied to in your projects? (e.g., TGM could be used to describe place of publication)
     - What potential functional requirements of your projects could it support? (e.g., users can browse by author if you use Library of Congress Name Authority Files or VIAF to determine the form of name)
 
-When you're finished, one group member should turn the assignment in to Canvas. 
+When you're finished, one group member should turn the assignment in to Canvas. _**Include names of all group members on submitted assignment.**_
