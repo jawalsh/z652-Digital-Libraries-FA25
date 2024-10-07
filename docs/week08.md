@@ -3,6 +3,7 @@
 ## Summary
 This week we will learn about:
 - International Image Interoperability Framework (IIIF) and software tools that support IIIF.
+
 ## Weekly Learning Objectives
 - *explain* the purpose of IIIF
 - *identify* use cases for IIIF functionality in digital libraries and digital scholarly projects
