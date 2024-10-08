@@ -40,7 +40,7 @@ For all fields specify:
 [Rubric](rubric_metadata_application_profile.md)
 
 Grading will follow a 2-phase process:
-1. Full draft: a full draft of this assignment with all of the parts indicated in these directions will be due ~~Oct. 06~~ Oct. 4 at 11:59pm. These will be graded over the weekend and handed back on Oct. 9 with a provisional grade.
+1. Full draft: a full draft of this assignment with all of the parts indicated in these directions will be due ~~Oct. 06~~ Oct. 4 at 11:59pm. These will be graded over the weekend and handed back on ~~Oct. 9~~ Oct. 13 with a provisional grade.
 2. Final draft: a final draft of this assignment with all of the parts indicated in these directions and incorporating any feedback will be due Oct. 18 at 11:59 pm.
 
 This assignment has a draft phase because documentation can be hard to write and metadata can be difficult to design. The goal is for you to think critically about what metadata will be best for your project based on your context, content, and users and to then document that metadata so that you or someone else can consistently and correctly create metadata according to your MAP. Therefore, you need the space to fail, flounder, and be creative—aka space to draft and revise. Think about what you learned in the cookbook MAP assignment.
