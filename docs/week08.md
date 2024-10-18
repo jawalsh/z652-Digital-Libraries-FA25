@@ -41,7 +41,7 @@ Images in research
  
 ## In class
 
-- [Next week](week08.md)
+- [Next week](week09.md)
 - [CBML/IIIF Demo](https://biblicon.org/fc15)
 - Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
 	- _Optional:_ Try the above tutorial with some comic book page images:
