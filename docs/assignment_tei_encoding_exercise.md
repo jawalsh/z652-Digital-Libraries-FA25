@@ -13,7 +13,7 @@ Transcribe one item of fan mail to Marvel Comics _Fantastic Four_. Use the follo
 </div>
 ```
 
-You may use this [template](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/fan_mail_template.xml): [fan_mail_template.xml](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/fan_mail_template.xml)
+You may use this template: [fan_mail_template.xml](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/fan_mail_template.xml)
 
 Elements you should use, if applicable in your document, include:
 
