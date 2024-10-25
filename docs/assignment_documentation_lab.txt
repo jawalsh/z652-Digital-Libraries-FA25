@@ -14,7 +14,7 @@ Answer the following questions using the documentation above. Turn in your compl
 3. **What metadata fields are required to support the map visualization in CollectionBuilder-GH metadata?** 
 4. **What four columns are included in the config-metadata.csv file?**
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)**
-6. **How should the date September 8, 2023 be formatted so that the timeline visualization works?** 
+6. **How should the date September 20, 2024 be formatted so that the timeline visualization works?** 
 7. **What column in what file allows you determine whether a field can be used for sorting on the Browse page of your website?**
 8. **How do you change which metadata fields contribute values to the "Subjects" visualization page?**
 9. **What three items (keys) are in the YAML front matter of any of the markdown page files?**
