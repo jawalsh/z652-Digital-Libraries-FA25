@@ -8,7 +8,7 @@ Perform OCR on each sample image below using [Adobe Acrobat](https://www.adobe.c
 - <https://onlineocr.net>
 - <https://ocr.space>
 
-## Sammple images
+## Sample images
 - [Swinburne. _Poems_. 1904.](images/swinburne.tif)
 - [“Kid Colt’s Roundup” (fan mail)](images/kid_colt.jpg). _Kid Colt Outlaw_ #122. (May 1965).
 - William Carlos Williams. Pictures from Brueghel. Ms. YCAL MSS 116. Beineke Library. Yale University.  From: <http://brbl-dl.library.yale.edu/vufind/Record/3520553>
