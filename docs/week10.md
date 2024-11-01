@@ -24,6 +24,7 @@ We will learn about the digitization of text-based media, or “text objects,”
 
 ## In Class
 - [slides](https://jawalsh.github.io/Z652_reveal.js/week10.html)
+- [Metadata Crosswalking Lab](lab_metadata_crosswalk.md)
 - [OCR exercise](assignment_ocr_exercise.md)
 - [Linux/Mac Commandline Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) (you'll mostly need the directory commands)
 * [Windows Commandline Cheat Sheet by Stephen Edwards at Columbia University](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
