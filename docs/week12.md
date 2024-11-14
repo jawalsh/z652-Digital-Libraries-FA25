@@ -28,6 +28,7 @@ This week we will learn about:
 There will be no discussion this week, but you should post questions or insights about your work with your CollectionBuilder site to our [Technical questions and  help](https://github.com/jawalsh/z652-Digital-Libraries/discussions/9) discussion. 
  
 ## In class
+- [course questionnaire](https://go.blueja.io/K6jt1ah-lEiLjq_-2DwW2g)
 - [Compound objects](https://collectionbuilder.github.io/cb-docs/docs/metadata/compound-objects/#compound_object)
 - [Feature includes](https://collectionbuilder.github.io/cb-docs/docs/pages/features/)
 - [TimelineJS](https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/)
