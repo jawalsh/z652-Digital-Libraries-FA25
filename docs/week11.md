@@ -33,5 +33,5 @@ There will be no discussion this week, but you should post questions or insights
 ## In class
 
 
-- [File formats for CollectionBuilder](https://jawalsh.github.io/Z652_reveal.js/file_formats.html)
+- [File formats for CollectionBuilder](https://jawalsh.github.io/Z652_reveal.js/cb_file_formats.html)
 - Most of class time will be devoted to working on your final projects and enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
