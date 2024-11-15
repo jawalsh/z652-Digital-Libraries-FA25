@@ -33,7 +33,7 @@ There will be no discussion this week, but you should post questions or insights
 	- [Final Project](https://iu.instructure.com/courses/2252765/assignments/16548023)
 	- [Final Project Presentation](https://iu.instructure.com/courses/2252765/assignments/16548019)
 - More site configuration
-  	- `config-search.csv`
+	- `config-search.csv`
 	- `config-browse.csv`
 - [Compound objects](https://collectionbuilder.github.io/cb-docs/docs/metadata/compound-objects/#compound_object)
 - [Feature includes](https://collectionbuilder.github.io/cb-docs/docs/pages/features/)
