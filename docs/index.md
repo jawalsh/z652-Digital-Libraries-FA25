@@ -5,23 +5,23 @@
 {% include_relative header.md %}
 
 # Schedule
-* [Week 1](week01.md) _(2024-08-30)_: Introductions
+* [Week 1](week01.md) _(2024-08-29)_: Introductions
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html)
-* [Week 2](week02.md) _(2024-09-06)_: GitHub & Markdown 
+* [Week 2](week02.md) _(2024-09-05)_: GitHub & Markdown 
 	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week02.html)
-* [Week 3](week03.md) _(2024-09-13)_: CollectionBuilder Introduction
-* [Week 4](week04.md) _(2024-09-20)_: Metadata 1 <!-- AW -->
+* [Week 3](week03.md) _(2024-09-12)_: CollectionBuilder Introduction
+* [Week 4](week04.md) _(2024-09-19)_: Metadata 1 <!-- AW -->
 	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week04.html)-->
-* [Week 5](week05.md) _(2024-09-27)_: Metadata 2 <!-- AW -->
+* [Week 5](week05.md) _(2024-09-26)_: Metadata 2 <!-- AW -->
 	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week05.html)-->
-* [Week 6](week06.md) _(2024-10-04)_: Image Objects 1
-* [Week 7](week07.md) _(2024-10-11)_: Fall Break
-* [Week 8](week08.md) _(2024-10-18)_: Image Objects 2
-* [Week 9](week09.md) _(2024-10-25)_: Text Objects 1 <!-- AW -->
-* [Week 10](week10.md) _(2024-11-01)_: Text Objects 2
-* [Week 11](week11.md) _(2024-11-08)_: CollectionBuilder
-* [Week 12](week12.md) _(2024-11-15)_: CollectionBuilder
-* [Week 13](week13.md) _(2024-11-22)_: CollectionBuilder
+* [Week 6](week06.md) _(2024-10-03)_: Image Objects 1
+* [Week 7](week07.md) _(2024-10-10)_: Fall Break
+* [Week 8](week08.md) _(2024-10-17)_: Image Objects 2
+* [Week 9](week09.md) _(2024-10-24)_: Text Objects 1 <!-- AW -->
+* [Week 10](week10.md) _(2024-10-31)_: Text Objects 2
+* [Week 11](week11.md) _(2024-11-07)_: CollectionBuilder
+* [Week 12](week12.md) _(2024-11-14)_: CollectionBuilder
+* [Week 13](week13.md) _(2024-11-21)_: CollectionBuilder
 <!--	- [slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing) -->
 <!--    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing) -->
 <!--
