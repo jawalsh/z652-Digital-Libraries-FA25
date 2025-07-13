@@ -18,7 +18,8 @@ Olivia Wikle and Devin Becker will join the class to discuss the CollectionBuild
 
 ## Before class: Readings, Resources, and Tasks
 ### Readings
- - Gil, Alex. "The User, the Learner and the Machines We Make." *Minimal Computing*, May 21, 2015. <https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/>.
+- Wikle, Olivia M., and Evan Peter Williamson. "[Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372)" *[code4lib](https://journal.code4lib.org/)*, April 14, 2025. <https://journal.code4lib.org/articles/18372>.
+<!-- - Gil, Alex. "The User, the Learner and the Machines We Make." *Minimal Computing*, May 21, 2015. <https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/>. -->
 - Wikle, Olivia, Evan Williamson, and Devin Becker. “What is Static Web and What’s it Doing in the Digital Humanities Classroom?” *dh+lib*, June 22, 2020. <https://acrl.ala.org/dh/2020/06/22/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom>.
 - [Lib-Static](https://lib-static.github.io)
 	- [“Why Lib-Static?”](https://lib-static.github.io/about/)
