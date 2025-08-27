@@ -20,7 +20,7 @@
 - Renear. “Text Encoding” from _A Companion to Digital Humanities_ (2004) at <http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5>.
 
 ### Tasks
-- By Thursday 5pm, respond to [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841508).
+- By Thursday 5pm, respond to [this week's discussion](https://iu.instructure.com/courses/2333328/assignments/17891339).
 - Install Oxygen XML software from <https://iuware.iu.edu/>.
 
 ## In class

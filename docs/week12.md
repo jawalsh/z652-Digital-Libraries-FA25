@@ -30,8 +30,8 @@ There will be no discussion this week, but you should post questions or insights
 ## In class
 - [course questionnaire](https://go.blueja.io/K6jt1ah-lEiLjq_-2DwW2g)
 - Review final project submissions
-	- [Final Project](https://iu.instructure.com/courses/2252765/assignments/16548023)
-	- [Final Project Presentation](https://iu.instructure.com/courses/2252765/assignments/16548019)
+	- [Final Project](https://iu.instructure.com/courses/2333328/assignments/17891343)
+	- [Final Project Presentation](https://iu.instructure.com/courses/2333328/assignments/17891332)
 - More site configuration
 	- [Configuring and customizing CollectionBuilder](https://jawalsh.github.io/Z652_reveal.js/cb_config.html) 
 - [Compound objects](https://collectionbuilder.github.io/cb-docs/docs/metadata/compound-objects/#compound_object)

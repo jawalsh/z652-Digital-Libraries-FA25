@@ -31,7 +31,7 @@ We will learn about what metadata is, different types of metadata, what it's use
 
 ### Tasks
  - READ: Please complete the readings outlined above by: Thursday, 5pm.
- - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841512) by: Thursday, 5pm.
+ - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2333328/assignments/17891335) by: Thursday, 5pm.
 
 ## In class
 - Documentation

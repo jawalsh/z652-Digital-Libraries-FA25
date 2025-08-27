@@ -33,7 +33,7 @@ This week we will learn about:
 
 ### Tasks
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2252765/discussion_topics/13841510) by: Thursday, 5pm.
+- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2333328/assignments/17891337) by: Thursday, 5pm.
 
 - **INSTALL** ImageMagick
     *   MacOS (option 1): If you have [homebrew](https://brew.sh/) installed, you can install ImageMagic from the Terminal command line with the commands:
