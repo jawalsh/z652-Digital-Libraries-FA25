@@ -8,6 +8,11 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - _Use_ GitHub to create a new repository and add documents to the repository.
 
 ## Before class: Readings, Resources, and Tasks
+
+### Digital Libraries
+	- <http://en.wikipedia.org/wiki/Digital_library>
+	- [Witten, Bainbridge, and Nichols](http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc): Chapter 1
+ 
 ### Markdown
 - Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
 - Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
