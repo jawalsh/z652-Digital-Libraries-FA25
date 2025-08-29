@@ -10,8 +10,8 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 ## Before class: Readings, Resources, and Tasks
 
 ### Digital Libraries
-	- <http://en.wikipedia.org/wiki/Digital_library>
-	- [Witten, Bainbridge, and Nichols](http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc): Chapter 1
+- <http://en.wikipedia.org/wiki/Digital_library>
+- [Witten, Bainbridge, and Nichols](http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc): Chapter 1
  
 ### Markdown
 - Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
