@@ -44,3 +44,4 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - course introduction.
 - [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html).
 - [Exploring digital collections](activity_exploring_digital_collections) activity.
+- [Pre-class survey](https://iu.instructure.com/courses/2333328/assignments/17891355/).
