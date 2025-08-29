@@ -12,7 +12,7 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - Use online tools to *investigate* the U.S. **copyright** status of published works.
  
 
-## Before class: Readings, Resources, and Tasks
+<!-- ## Before class: Readings, Resources, and Tasks-->
 <!--
 ### Readings
 
@@ -34,8 +34,8 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 	- You may also wish to explore some of IU’s digital collections at <http://dlib.indiana.edu/collections>
 -->
 	
-### Tasks
-- Complete the [Pre-class survey](https://iu.instructure.com/courses/2169110/quizzes/4004384).
+<!-- ### Tasks
+- Complete the [Pre-class survey](https://iu.instructure.com/courses/2169110/quizzes/4004384). -->
 <!-- - Contribute to your introductory video to the [Introduction videos](https://iu.instructure.com/courses/2169110/discussion_topics/12902800) discussion.-->
 
 <!-- - Contribute to the [“What are digital libraries?”](https://iu.instructure.com/courses/2169110/discussion_topics/12937141) discussion. -->
