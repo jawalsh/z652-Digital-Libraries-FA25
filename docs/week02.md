@@ -34,5 +34,3 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - [Markdown exercise](assignment_markdown_exercise.md)
 - [GitHub Starter](activity_github_starter.md) activity
 - GitHub/CollectionBuilder homework for [next week](week03.md).
-- Hello class!
-- Hello, again! This is getting old.
