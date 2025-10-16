@@ -43,10 +43,10 @@ This week we will learn about controlled vocabularies and how they relate to met
 
 ## In class
 - Review of Markdown lab answers
+- Review [Final Project Proposal](./assignment_final_project_proposal.html)
 - Controlled Vocabularies
     - [Controlled Vocabulary Lab](assignment_controlled_vocabulary_lab.md)
-    - [Slides](https://github.com/jawalsh/z652-Digital-Libraries-FA24/blob/main/resources/week5.pdf)
-<!--    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing) -->
+    - [slides](https://docs.google.com/presentation/d/1o3MG390WYBccGdUCpV9j0K7j-YkBlh0npwbDL_R6PbQ/edit?usp=sharing)
 - Review of metadata
 - Review of upcoming metadata assignment
 - Metadata and Documentation continued
