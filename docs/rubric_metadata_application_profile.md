@@ -13,7 +13,31 @@ This assignment evaluates your ability to design, document, and justify a metada
 
 ### 2. Element Selection and Documentation
 - Includes all **required CollectionBuilder-GH elements**.
+<!-- 
+- `objectid`
+- `filename`
+- `title`
+- `format`
+- `youtubeid` (if applicable)
+- `vimeoid` (if applicable)
+-->
 - Includes at least **two visualization elements** and one or more relevant **optional fields**.
+<!-- vis
+- `latitude` and `longitude`
+- `date`
+- `subject`
+- `location`
+-->
+<!-- optional
+- `creator`
+- `description`
+- `source`
+- `identifier`
+- `type`
+- `language`
+- `rights`
+- `rightsstatement`
+-->
 - Introduces at least one **custom metadata field**, with a clear justification.
 - For each element, provides complete documentation including:
   - obligation  
