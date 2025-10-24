@@ -18,7 +18,7 @@ You may use this template: [fan_mail_template.xml](https://github.com/jawalsh/z6
 Elements you should use, if applicable in your document, include:
 
 - [`<opener>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html)
-- [`<salut>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-salut.html)
+- [`<salute>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-salut.html)
 - [`<closer>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-closer.html)
 - [`<signed>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-signed.html)
 - [`<address>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-address.html)
