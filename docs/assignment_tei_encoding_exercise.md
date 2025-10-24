@@ -28,6 +28,14 @@ Elements you should use, if applicable in your document, include:
 - [`<title>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-title.html)
 - [`<postcode>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-postcode.html)
 
+Additional elements you could use to highlight names of people, places, organizations, and events:
+
+ - [`<persName>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-persName.html)
+ - [`<placeName>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-placeName.html)
+ - [`<geogName>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-geogName.html)
+ - [`<orgName>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-orgName.html)
+ - [`<eventName>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-eventName.html)
+
 Apply the correct bibliographic details to your `<sourceDesc>` description. You may find bibliographic details at:
 
 - [_Fantastic Four_ #3](https://www.comics.org/issue/16830/) (for files starting with "ff0003")
