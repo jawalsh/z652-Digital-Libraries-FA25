@@ -5,10 +5,10 @@ Transcribe one item of fan mail to Marvel Comics _Fantastic Four_. Use the follo
 ```
 <div type="group">
 	<div type="letter">
-		<!-- put the fan mail here -->
+		<!-- put the fan mail below this comment -->
 	</div>
 	<div type="reply">
-		<!-- put the editors’ reply here -->
+		<!-- put the editors’ reply below this comment -->
 	</div>
 </div>
 ```
