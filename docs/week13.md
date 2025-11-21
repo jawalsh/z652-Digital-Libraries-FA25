@@ -13,10 +13,10 @@ The objective this week is to _implement_ all we have learned this semester to _
 - Review [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)
 - Review [CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/) _Be aware that some details have may have changed since the Workshop was developed in 2020._
 	
-There will be no discussion this week, but you should post questions or insights about your work with your CollectionBuilder site to our [Technical questions and  help](https://github.com/jawalsh/z652-Digital-Libraries/discussions/9) discussion. 
+There will be no discussion this week, but you should come to class prepared with any final questions you have about building your CollectionBuilder site. 
  
 ## In class
 
 
 
-The rest of class time will be devoted to working on your final projects and enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
+The rest of class time will be devoted to troubleshooting, working on your final projects, and enhancing your CollectionBuilder project with the configuration and page-building techniques that we have learned the past few weeks. 
