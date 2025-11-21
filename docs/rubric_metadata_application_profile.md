@@ -13,7 +13,19 @@ This assignment evaluates your ability to design, document, and justify a metada
 
 ### 2. Element Selection and Documentation
 - Includes all **required CollectionBuilder-GH elements**.
-<!-- 
+- Includes at least **two visualization elements** and one or more relevant **optional fields**.
+- Introduces at least one **custom metadata field**, with a clear justification.
+- For each element, provides complete documentation including:
+  - obligation  
+  - cardinality  
+  - content guidelines  
+  - applicable **controlled vocabularies** or **syntax encoding schemes** (with links)  
+  - **Dublin Core mapping**  
+  - illustrative example(s)  
+  - notes (if relevant)  
+- Documentation is complete, precise, and clearly tailored to the project’s content and goals.
+
+<!-- required
 - `objectid`
 - `filename`
 - `title`
@@ -21,7 +33,6 @@ This assignment evaluates your ability to design, document, and justify a metada
 - `youtubeid` (if applicable)
 - `vimeoid` (if applicable)
 -->
-- Includes at least **two visualization elements** and one or more relevant **optional fields**.
 <!-- vis
 - `latitude` and `longitude`
 - `date`
@@ -38,16 +49,6 @@ This assignment evaluates your ability to design, document, and justify a metada
 - `rights`
 - `rightsstatement`
 -->
-- Introduces at least one **custom metadata field**, with a clear justification.
-- For each element, provides complete documentation including:
-  - obligation  
-  - cardinality  
-  - content guidelines  
-  - applicable **controlled vocabularies** or **syntax encoding schemes** (with links)  
-  - **Dublin Core mapping**  
-  - illustrative example(s)  
-  - notes (if relevant)  
-- Documentation is complete, precise, and clearly tailored to the project’s content and goals.  
 **(40 points)**
 
 ### 3. Alignment and Coherence
